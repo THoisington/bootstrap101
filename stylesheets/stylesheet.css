@@ -101,7 +101,7 @@ p.assignment_box_details { margin-bottom: 15px; }
 div.active_assignment { display: block; }
 li.active_assignment_link { color: #999 !important; }
 
-/* added by Tanner for references */
+/* references */
 ul.bottom_list {float:left; text-align: left; padding-left: 70px; padding-top: 15px; font-family: "Lato","Arial Black","Arial Bold",sans-serif; width: 85%; margin: 0 auto 20px auto; font-size: 12pt; line-height: 1.4em; color: #777;}
 div.index_bottom_content li.bottom_list_2 {list-style: circle; margin-left: 40px; margin-bottom: 20px;}
 div.index_bottom_content li.bottom_list_1 {list-style: disc;}
